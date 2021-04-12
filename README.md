@@ -27,7 +27,8 @@
 ## Img
 
 效果图如下：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/ibertli/MusicPlayer/blob/master/images/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+效果图如上：
 
 ## Maintainers
 
