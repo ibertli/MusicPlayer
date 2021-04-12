@@ -1,2 +1,3 @@
 # MusicPlayer
-Background
+Background:
+  Based on the common Vue commonds, to creat a MusicPlayer
