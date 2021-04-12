@@ -21,7 +21,7 @@
 
 ## Usage
 
-使用方法见(#Install)
+使用方法见 [Install](#Install)
 
 ## Maintainers
 
