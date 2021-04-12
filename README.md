@@ -13,7 +13,7 @@
 
 ## Background
 
-使用基础的vue语法创建一个音乐播放器。数据请求的接口全部来自于 .[网易云音乐].(https://autumnfish.cn/),通过 [npm](https://npmjs.com).请求不同的数据，得到歌单、歌词、是否是mv、mv的连接、热门评论等信息，是入门vue的一个很好的例子.
+使用基础的vue语法创建一个音乐播放器。数据请求的接口全部来自于 .[网易云音乐].(https://autumnfish.cn/),通过 [npm](https://autumnfish.cn/).请求不同的数据，得到歌单、歌词、是否是mv、mv的连接、热门评论等信息，是入门vue的一个很好的例子.
 
 ## Install
 
