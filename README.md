@@ -7,6 +7,7 @@
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
+- [Img](#img)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,6 +23,11 @@
 ## Usage
 
 使用方法见 [Install](#Install)
+
+## Img
+
+效果图如下：
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 ## Maintainers
 
